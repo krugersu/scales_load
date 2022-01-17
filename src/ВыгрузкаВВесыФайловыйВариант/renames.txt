@@ -2,6 +2,8 @@
 1a8636d8-e685-48f9-afbb-3347c1ff4e7e.0-->und\1a8636d8-e685-48f9-afbb-3347c1ff4e7e.0
 61dbfac3-8152-4534-91d5-425523b26ef4-->und\61dbfac3-8152-4534-91d5-425523b26ef4
 copyinfo-->und\copyinfo
+da865120-f04b-43fe-8590-4e63b348ebc7.0\info-->und\da865120-f04b-43fe-8590-4e63b348ebc7.0\info
+da865120-f04b-43fe-8590-4e63b348ebc7.0\text-->ObjectModule.bsl
 root-->und\root
 version-->und\version
 versions-->und\versions
